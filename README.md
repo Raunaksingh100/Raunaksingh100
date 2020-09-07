@@ -17,6 +17,6 @@
 <a href="https://twitter.com/raunaks18873758" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raunaks18873758" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/raunak babbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raunak babbar" height="30" width="30" /></a>
 <a href="https://fb.com/raunak babbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raunak babbar" height="30" width="30" /></a>
-<a href="https://instagram.com/raunak singh babbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raunak singh babbar" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/raunak singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="raunak singh" height="30" width="30" /></a>
+<a href="https://instagram.com/raunak_singh_babbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raunak singh babbar" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCpbITnoGYE3nbH1l20UZF6Q/videos?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="raunak singh" height="30" width="30" /></a>
 </p>
