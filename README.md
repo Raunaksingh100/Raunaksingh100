@@ -21,3 +21,10 @@
 <a href="https://instagram.com/raunak_singh_babbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raunak singh babbar" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCpbITnoGYE3nbH1l20UZF6Q/videos?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="raunak singh" height="30" width="30" /></a>
 </p>
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCpbITnoGYE3nbH1l20UZF6Q/videos?view_as=subscriber" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/raunaks18873758" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://linkedin.com/in/raunak babbar" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://instagram.com/raunak_singh_babbar" />][instagram]
