@@ -1,9 +1,9 @@
 ## Hola, I'm [Raunak Singh!](https://github.com/Raunaksingh100) 👋
 
 - 🔭 I’m currently working on <b>Open souces projects.</b>
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning all things.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/RaunakS18873758)
+- 📫 How to reach me: [Twitter - @RaunakS18873758](https://twitter.com/RaunakS18873758)
 - ⚡ Fun fact: I am blogger, youtuber and enginerr.
 
 </br>
